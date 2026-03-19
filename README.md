@@ -160,7 +160,7 @@ By understanding how collateral works, how LTV ratios affect borrowing, and how 
 
 Crypto lending continues to evolve, and ETH-backed loans remain a key part of this ecosystem
 
-## If you want a bitcoin loan built to survive crashes, check out CryptaLend:
+## If you want a bitcoin loan built to survive crashes, check out CryptaLend: CryptaLend focuses on borrower safety and transparent crypto lending structures.
 
 ---
 
